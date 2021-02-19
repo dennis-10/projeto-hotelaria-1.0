@@ -1,0 +1,28 @@
+.Header {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    background-color: #034f84;
+    height: 10%;
+}
+
+.Header a {
+    margin: 5mm;
+    font-size: 10mm;
+    color:white
+}
+
+.Header img {
+    height: 25mm;
+}
+
+
+#Logoff {
+    text-decoration: none;
+    
+    margin-left: 50%;
+    margin-right: 5mm;
+    font-size: 6mm;
+    margin-top: 9mm;
+}

@@ -1,0 +1,25 @@
+.Menu-lateral {
+    margin-top: 0cm;
+    background-color: #034f84;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: 250px;
+}
+
+
+li{
+    margin-top: 5mm;
+    text-align: center;
+}
+
+.Menu-lateral ul {
+    list-style-type: none;
+}
+
+.Menu-lateral a {
+    text-decoration: none;
+    color: white;
+    font-size: 7mm;
+}

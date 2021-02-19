@@ -1,0 +1,16 @@
+.App {
+  display:flex;
+  flex-direction:row;
+  height: 100vh;
+}
+
+.App-div {
+  margin: 0;
+  width: 100%;
+  background-color: whitesmoke;
+}
+
+.App-conteudo {
+  margin-left: 10mm;
+  font-size: 10mm;
+}

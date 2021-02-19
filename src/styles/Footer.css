@@ -1,0 +1,12 @@
+.Footer{
+    display: flex;
+    flex-direction: row;
+
+    background-color: darkblue;
+    min-height: 80%;
+}
+
+.Footer a {
+    font-size: 5mm;
+    color: white;
+}

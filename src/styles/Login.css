@@ -1,0 +1,32 @@
+.Login {
+    margin-left: 20px;
+}
+
+.Login input {
+    padding:2mm;
+    width: 10cm;
+}
+
+.Bem-vindo {
+    text-align: center;
+    border-radius: 10em;
+    border-color: white;
+}
+
+.Login-formulario {
+    margin-left: 15mm;
+}
+
+#Login-botao {
+    margin-top: 20mm;
+    margin-left:0mm;
+    font-size: 5mm;
+    width: 5cm;
+}
+
+.Login a {
+    margin-left: 15px;
+    text-decoration: none;
+    color:blue;
+    font-size: 4mm;
+}
